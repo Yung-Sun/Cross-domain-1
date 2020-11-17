@@ -7,10 +7,12 @@ yarn global add node-dev
 https://github.com/Yung-Sun/Cross-domain-1.git
 
 ## 进入 qq-com 运行 server.js
-cd Cross-domain-1/qq-com; node-dev server.js 8888
+cd Cross-domain-1/qq-com; 
+node-dev server.js 8888
 
 ## 进入 hacker-com 运行 server.js
-cd ../hacker-com; node-dev server.js 9999
+cd ../hacker-com; 
+node-dev server.js 9999
 
 ## 设置 hosts
  127.0.0.1 qq.com
